@@ -99,7 +99,7 @@
       <a href="https://github.com/lucaslimasilvafoligem/Classificacao_de_Personalidade_Aparente_a_partir_de_Imagens" target="_blank">Apparent Personality Classification</a>
     </li>
     <li>
-      Onde Acho
+      <a href="https://github.com/projeto1-2024-2">Onde Acho</a>
     </li>
     <li>
       <a href="https://github.com/orgs/Prog-Web-2026/repositories">Prog-Web</a>
