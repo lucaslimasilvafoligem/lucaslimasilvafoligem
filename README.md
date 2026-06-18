@@ -93,8 +93,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaslimasilvafoligem&theme=github-dark" alt="Gráfico de Atividade do GitHub" />
 </p>
 
-<div align="center">
-  <h2>My lastest</h2>
+  <h2>My lastest activities</h2>
   <ul>
+    <li>
+      <a href="https://github.com/lucaslimasilvafoligem/Classificacao_de_Personalidade_Aparente_a_partir_de_Imagens" target="_blank">Apparent Personality Classification</a>
+    </li>
+    <li>
+    </li>
   </ul>
- </div>
