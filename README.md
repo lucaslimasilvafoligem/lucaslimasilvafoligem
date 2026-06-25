@@ -3,7 +3,7 @@
   
   <h1>
     Hello, my name is
-    <a href="https://www.linkedin.com/in/lucas-de-lima-da-silva-6b7b1a289/">Lucas Lima</a>
+    <a href="https://www.linkedin.com/in/lucaslimafoligem/">Lucas Lima</a>
   </h1>
   
   <p align="center">
@@ -17,7 +17,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimasilvafoligem&langs_count=10&layout=compact&theme=midnight-purple)](https://github.com/lucaslimasilvafoligem)
   </a>
 
-  [![Linkerdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-lima-da-silva-6b7b1a289/)
+  [![Linkerdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslimafoligem/)
 
   [![Perfil Workana](https://img.shields.io/badge/workana-2962FF?style=for-the-badge&logo=Workanae&logoColor=white)](https://www.workana.com/freelancer/7a90303aff470bdf1fad4d7f613abe97)
 </div>
