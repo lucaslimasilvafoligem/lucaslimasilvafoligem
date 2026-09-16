@@ -11,11 +11,6 @@
   </p>
 
   <a href="https://github.com/lucaslimasilvafoligem">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucaslimasilvafoligem&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" />
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimasilvafoligem&langs_count=10&layout=compact&theme=midnight-purple)](https://github.com/lucaslimasilvafoligem)
-  </a>
 
   [![Linkerdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslimafoligem/)
 
@@ -29,7 +24,6 @@
   <h2>🛠️ Technologies and tools</h2>
   <br>
 
-<!--  LANGUAGES  -->
   <h3>💻 Linguagens</h3>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -45,7 +39,6 @@
 
   <br><br>
 
-  <!--  FRAMEWORKS & LIBRARIES  -->
   <h3>🚀 Frameworks & Bibliotecas</h3>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -61,7 +54,6 @@
 
   <br><br>
 
-  <!--  DATABASES, APIs & PROTOCOLS  -->
   <h3>🗄️ Dados, APIs & Protocolos</h3>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -76,7 +68,6 @@
 
   <br><br>
 
-  <!--  DEVOPS & TOOLS  -->
   <h3>⚙️ DevOps & Ferramentas</h3>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
