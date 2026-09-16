@@ -11,7 +11,7 @@
   </p>
 
   <a href="https://github.com/lucaslimasilvafoligem">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucaslimasilvafoligem&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucaslimasilvafoligem&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" />
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimasilvafoligem&langs_count=10&layout=compact&theme=midnight-purple)](https://github.com/lucaslimasilvafoligem)
